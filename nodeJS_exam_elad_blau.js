@@ -26,7 +26,7 @@ const attendees = [['Eden', 'Refael', 'Yoni', 'Nitzan', 'Hadas', 'Ortal'],
 ['Berry', 'Nitzan', 'Yoni', 'Eden', 'Hadas', 'Ortal'],
 ['Maxim', 'Ortal', 'Yoni', 'Refael', 'Nitzan', 'Alex'],
 ['Eden', 'Andrew', 'Yoni', 'Nitzan', 'Ortal', 'Nitzan']];
-const N = ----3;
+const N = 3;
 
  const res = topNStudentsAttendees(students, attendees, N);
  console.log(res);
